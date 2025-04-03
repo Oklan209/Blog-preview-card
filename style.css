@@ -85,7 +85,7 @@
     border-color:transparent;
 
 }
-.content h3:hover{
+.content h1:hover{
     color:var(--Yellow);
 }
 
